@@ -52,4 +52,33 @@ DIVIDE(SUM(vw_sales[Profit]), SUM(vw_sales[Revenue])) * 100
 
 Total Quantity = SUM(vw_sales[Quantity])
 
+```
+
 ---
+
+### 🧩 Insights
+- The **top 3 countries** contribute over 70% of total revenue.  
+- **Profit margin** stabilizes around 25–30% across months.  
+- **Electronics** and **Accessories** are the best-performing categories.  
+- Sales trend shows consistent growth in Q3 and Q4, driven by promotional events.  
+
+---
+
+### 🗂️ Dataset
+This project uses the public dataset available on Kaggle:  
+📦 **[Sales Data for Economic Data Analysis — Kaggle](https://www.kaggle.com/datasets/abhishekrp1517/sales-data-for-economic-data-analysis)**  
+
+The dataset contains transaction-level sales data with fields such as:  
+`Order ID`, `Customer ID`, `Product`, `Category`, `Country`, `Order Date`, `Quantity`, `Revenue`, and `Profit`.
+
+---
+
+### 🛠️ Tools & Tech Stack
+- **Power BI Desktop**  
+- **DAX (Data Analysis Expressions)**  
+- **Power Query**  
+- **Excel / PostgreSQL for preprocessing**
+
+---
+
+
