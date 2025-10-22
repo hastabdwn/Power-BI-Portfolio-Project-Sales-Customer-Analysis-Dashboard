@@ -1,4 +1,4 @@
-# 📊 Power BI Dashboard — Sales & Customer Analysis
+# 📊 Sales Dashboard
 
 ## 📘 Overview
 This Power BI project consists of **two main dashboard pages**:
